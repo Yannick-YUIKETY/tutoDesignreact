@@ -30,7 +30,7 @@ const ProductDetail: React.FC<Props> = ({ route, navigation }) => {
     <SafeAreaView>
     <View style={{
           paddingHorizontal:Spacing * 2,
-          paddingVertical:Spacing$1.5,
+          paddingVertical:Spacing*1.5,
           flexDirection:"row",
           alignItems:"center",
           justifyContent:"space-between",
